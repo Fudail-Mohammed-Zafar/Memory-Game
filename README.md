@@ -1,6 +1,6 @@
 # Memory Card Game
 
-A simple memory-matching card game built with HTML, CSS, and JavaScript. The player must match pairs of cards by flipping them over.
+A simple memory-matching card game built with HTML, CSS, and JavaScript. The player must match pairs of cards by flipping them over. After finishing the game, the cards are shuffled for a re-match.
 
 ## Table of Contents
 - [Features](#features)
