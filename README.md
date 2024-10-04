@@ -36,7 +36,6 @@ A simple memory-matching card game built with HTML, CSS, and JavaScript. The pla
 - CSS3
 - JavaScript
 - Google Material Icons
-- Google Fonts (Poppins)
 
 ## How to Play
 1. Click on any card to flip it over.
