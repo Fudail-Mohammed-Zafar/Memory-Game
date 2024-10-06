@@ -5,7 +5,6 @@ A simple memory-matching card game built with HTML, CSS, and JavaScript. The pla
 ## Table of Contents
 - [Features](#features)
 - [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
 - [How to Play](#how-to-play)
 
 ## Features
