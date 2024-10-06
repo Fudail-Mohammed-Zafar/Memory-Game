@@ -31,11 +31,6 @@ A simple memory-matching card game built with HTML, CSS, and JavaScript. The pla
 └── script.js                # JavaScript file for game logic
 ```
 
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-
 ## How to Play
 1. Click on any card to flip it over.
 2. Try to find the matching pair by flipping another card.
